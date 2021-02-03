@@ -1,0 +1,439 @@
+{
+    "title": "Отборочный тур №3 / внимание. поиск цифр",
+    "description": "Задача в данной соревновательной дисциплине состоит в том, чтобы запомнить и соотнести лица (портретные фотографии) и фамилии/имена людей.",
+    "exercises_blocks": [
+        {
+            "questions": [
+                {
+                    "value": "Левицкая Анна",
+                    "key": "https://avatars.mds.yandex.net/get-pdb/1926685/54db24b5-0db7-441d-ace6-1e3ee426976d/s1200?webp=false",
+                    "question_answers": [
+                        {
+                            "is_correct": true,
+                            "value": "Левицкая"
+                        },
+                        {
+                            "is_correct": true,
+                            "value": "Анна"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "value": "Бабий Виталий",
+                    "key": "https://images.unsplash.com/photo-1541260894924-7ff059b93d54?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+                    "question_answers": [
+                        {
+                            "is_correct": true,
+                            "value": "Бабий"
+                        },
+                        {
+                            "is_correct": true,
+                            "value": "Виталий"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "value": "Петрова Женя",
+                    "key": "https://i.guim.co.uk/img/media/71f005f8c3d982f73133905ad89c9f205dba9562/3_260_1690_1013/master/1690.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=cc70c051e66fe9a8adf2ea1bc594e82d",
+                    "question_answers": [
+                        {
+                            "is_correct": true,
+                            "value": "Петрова"
+                        },
+                        {
+                            "is_correct": true,
+                            "value": "Женя"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "value": "Гаврилина Юлия",
+                    "key": "https://i.playground.ru/i/pix/2561409/image.jpg",
+                    "question_answers": [
+                        {
+                            "is_correct": true,
+                            "value": "Гаврилина"
+                        },
+                        {
+                            "is_correct": true,
+                            "value": "Юлия"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "value": "Виленская Анастасия",
+                    "key": "https://pressa.tv/uploads/posts/2019-11/1572968923_pressa_tv_6a.jpg",
+                    "question_answers": [
+                        {
+                            "is_correct": true,
+                            "value": "Виленская"
+                        },
+                        {
+                            "is_correct": true,
+                            "value": "Анастасия"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "value": "Евтухов Евгений",
+                    "key": "https://images.unsplash.com/photo-1525545073321-a0c3bc5f4c1b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+                    "question_answers": [
+                        {
+                            "is_correct": true,
+                            "value": "Евтухов"
+                        },
+                        {
+                            "is_correct": true,
+                            "value": "Евгений"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "value": "Левченко Екатерина",
+                    "key": "https://avatars.mds.yandex.net/get-pdb/1636783/de8554b1-7d59-4c19-b597-de29d4462084/s1200?webp=false",
+                    "question_answers": [
+                        {
+                            "is_correct": true,
+                            "value": "Левченко"
+                        },
+                        {
+                            "is_correct": true,
+                            "value": "Екатерина"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "value": "Вячеслав Прах",
+                    "key": "https://images.unsplash.com/photo-1520785643438-5bf77931f493?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+                    "question_answers": [
+                        {
+                            "is_correct": true,
+                            "value": "Вячеслав"
+                        },
+                        {
+                            "is_correct": true,
+                            "value": "Прах"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "value": "Дядюра Виолетта",
+                    "key": "https://images.unsplash.com/photo-1517812924672-b545b0868019?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+                    "question_answers": [
+                        {
+                            "is_correct": true,
+                            "value": "Дядюра"
+                        },
+                        {
+                            "is_correct": true,
+                            "value": "Виолетта"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "value": "Максим Сергеев",
+                    "key": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+                    "question_answers": [
+                        {
+                            "is_correct": true,
+                            "value": "Максим"
+                        },
+                        {
+                            "is_correct": true,
+                            "value": "Сергеев"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "value": "Недорубов Саша",
+                    "key": "https://images.unsplash.com/photo-1517800249805-f3d51bd0b07f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+                    "question_answers": [
+                        {
+                            "is_correct": true,
+                            "value": "Недорубов"
+                        },
+                        {
+                            "is_correct": true,
+                            "value": "Саша"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "value": "Куваева Алёнка",
+                    "key": "https://avatars.mds.yandex.net/get-pdb/1863957/c8562ff3-3b7d-4eef-b8ba-4894078b5d35/s1200?webp=false",
+                    "question_answers": [
+                        {
+                            "is_correct": true,
+                            "value": "Куваева"
+                        },
+                        {
+                            "is_correct": true,
+                            "value": "Алёнка"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "value": "Лодох Марк",
+                    "key": "https://images.unsplash.com/photo-1494302377477-915db5a8e609?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+                    "question_answers": [
+                        {
+                            "is_correct": true,
+                            "value": "Лодох"
+                        },
+                        {
+                            "is_correct": true,
+                            "value": "Марк"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "value": "Цуканова-Котт Анна",
+                    "key": "https://i.pinimg.com/236x/38/b4/c6/38b4c65ee000020ba7470641ec7450dc.jpg",
+                    "question_answers": [
+                        {
+                            "is_correct": true,
+                            "value": "Цуканова-Котт"
+                        },
+                        {
+                            "is_correct": true,
+                            "value": "Анна"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "value": "Клочкова Яна",
+                    "key": "https://womanskincare.ru/wp-content/uploads/2017/07/79.jpg",
+                    "question_answers": [
+                        {
+                            "is_correct": true,
+                            "value": "Клочкова"
+                        },
+                        {
+                            "is_correct": true,
+                            "value": "Яна"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "value": "Загоскина Татьяна",
+                    "key": "https://sun9-19.userapi.com/c857032/v857032867/dcbba/G8Ji1GjWJaQ.jpg",
+                    "question_answers": [
+                        {
+                            "is_correct": true,
+                            "value": "Загоскина"
+                        },
+                        {
+                            "is_correct": true,
+                            "value": "Татьяна"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "value": "Розалина Ирина",
+                    "key": "https://avatars.mds.yandex.net/get-pdb/2885550/a8152f07-2769-400b-88d0-1fe290c46b96/s1200?webp=false",
+                    "question_answers": [
+                        {
+                            "is_correct": true,
+                            "value": "Розалина"
+                        },
+                        {
+                            "is_correct": true,
+                            "value": "Ирина"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "value": "Ковальская Инночка",
+                    "key": "http://liveangarsk.ru/files/images/928a283e3b41186923a87aa277aeb924-screenshot_20180609-2107162.png",
+                    "question_answers": [
+                        {
+                            "is_correct": true,
+                            "value": "Ковальская"
+                        },
+                        {
+                            "is_correct": true,
+                            "value": "Инночка"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "value": "Никара Артемий",
+                    "key": "https://images.unsplash.com/photo-1535944492-2ce2ec41e74e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+                    "question_answers": [
+                        {
+                            "is_correct": true,
+                            "value": "Никара"
+                        },
+                        {
+                            "is_correct": true,
+                            "value": "Артемий"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "value": "Ионов Евгений",
+                    "key": "https://images.unsplash.com/photo-1512396988639-f876cb6f11ed?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+                    "question_answers": [
+                        {
+                            "is_correct": true,
+                            "value": "Ионов"
+                        },
+                        {
+                            "is_correct": true,
+                            "value": "Евгений"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "value": "Иванова Кристина",
+                    "key": "https://wallbox.ru/resize/1400x1050/wallpapers/main2/201744/anna1234567.jpg",
+                    "question_answers": [
+                        {
+                            "is_correct": true,
+                            "value": "Иванова"
+                        },
+                        {
+                            "is_correct": true,
+                            "value": "Кристина"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "value": "Губжев Адам",
+                    "key": "https://images.unsplash.com/photo-1554651802-57f1d69a4944?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+                    "question_answers": [
+                        {
+                            "is_correct": true,
+                            "value": "Губжев"
+                        },
+                        {
+                            "is_correct": true,
+                            "value": "Адам"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "value": "Вилков Алексей",
+                    "key": "https://images.unsplash.com/photo-1542909192-2f2241a99c9d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+                    "question_answers": [
+                        {
+                            "is_correct": true,
+                            "value": "Вилков"
+                        },
+                        {
+                            "is_correct": true,
+                            "value": "Алексей"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "value": "Тарасова Аглая",
+                    "key": "https://kaverin.info/wp-content/uploads/2018/08/45.jpg",
+                    "question_answers": [
+                        {
+                            "is_correct": true,
+                            "value": "Тарасова"
+                        },
+                        {
+                            "is_correct": true,
+                            "value": "Аглая"
+                        }
+                    ]
+                }
+            ]
+        }
+        
+    ]
+}

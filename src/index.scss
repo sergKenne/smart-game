@@ -1,0 +1,226 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.app {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    
+}
+.container {
+    max-width: 1225px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+ .btn {
+    background-color:#183b5e;
+    padding: 0 4rem;
+    font-size: 1.4rem;
+    margin: 0 auto;
+    &:hover {
+        background-color: rgba(#183b5e, .8); 
+    }
+}
+
+.navbar {
+    color:#ffd74c;
+    background-color: #183b5e;
+    flex: 0 0 60px;
+    text-align: center;
+    line-height: 60px;
+    font-size: 2rem;
+}
+
+.main {
+    flex: 1 0 auto;
+}
+
+.home {
+    &__title {
+        text-align: center;
+        font-weight: bold;
+        color: #5a6978;
+    }
+    &__description {
+        font-size: 1.6rem;
+        line-height: 1.7;
+        font-weight: 600;
+        color:  rgba(#0a141e, .7);
+    }
+    &__wrap-btn {
+        text-align: center;
+        margin: 6rem;
+    }
+}
+
+.question {
+    margin-top: 2rem;
+    position: relative;
+    &__icon {
+        color: #183b5e;
+        position: absolute;
+        top: 210px;
+        font-size: 3.7rem;
+        cursor: pointer;
+        &--left {
+            left: -7rem;
+        }
+        &--right {
+            right: -7rem;
+        }
+    }
+    &__counter {
+        font-weight: 600;
+        font-size: 2rem;
+        position: absolute;
+        left: 0;
+        bottom: 1.2rem;
+    }
+    &__timer {
+        font-weight: 600;
+        font-size: 2rem;
+        position: absolute;
+        right: 0;
+        bottom: 1.2rem;
+        width: 80px;
+    }
+}
+
+
+
+input[type=text]:not(.browser-default) {
+    border: none;
+}
+
+input[type=text]:not(.browser-default):focus:not([readonly]) {
+    border-bottom: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+.portrait {
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px solid #000;
+    overflow: hidden;
+    &__item {
+        width: 33.3333%;
+        height: 250px;
+        border: 1px solid #000;
+    }
+    &__picture {
+         height: 200px;
+         padding: 10px 40px;
+         overflow: hidden;
+    }
+    &__img {
+        display: block;
+        width: 100%;
+        height: 100%;
+    }
+    &__name {
+        text-align: center;
+        height: 50px;
+        line-height: 43px;
+        border-top: 2px solid #000;
+        font-size: 1.4rem;
+        font-weight: 600;
+        background: #e7e0e0;
+        &--input {
+            
+           padding: 0 10px;
+        }
+    }
+    &__btn {
+        text-align: center;
+        margin-top: 2rem;
+        padding-bottom: 2rem;
+    }
+    &__input {
+        height: 2rem!important;
+        background-color: #fff!important;
+        border-color: #8bbafe!important;
+        outline: 0;
+        box-shadow: 0 0 0 0.2rem rgb(13 110 253 / 25%)!important;
+    }
+}
+
+.pause {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 76vh;
+    &__wrap {
+        width: 361px;
+        height: 361px;
+        position: relative;
+        color: #000;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 50%;
+        -webkit-border-radius: 50%;
+        -moz-border-radius: 50%;
+        -ms-border-radius: 50%;
+        -o-border-radius: 50%;
+    }
+    &__spinner {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+    &__item {
+        text-align: center;
+        font-size: 2.5rem;
+        line-height: 53px;
+    }
+}
+
+.results {
+
+    &__title {
+        text-align: center;
+        color: #5a6978;
+    }
+    &__outer {
+       
+    }
+    &__item {
+        display: flex;
+        margin-bottom: 2rem;
+        justify-content: center;
+    }
+    &__inner {
+        font-size: 2.5rem;
+        &--text {
+            width: 450px;
+            background-color: #d5dfe4;
+            color: #5a6978;
+            padding: 1rem 2rem;
+            margin-right: 2rem;
+        }
+        &--number {
+            width: 140px;
+            background-color:  #5a6978;
+            color: #ffffff;
+            text-align: center;
+            padding-top: 1rem;
+        }
+    }
+    &__btn {
+        margin-top: 4rem;
+        text-align: center;
+    }
+}
+
+
+.footer {
+    background-color: #183b5e;
+    flex: 0 0 30px;
+}

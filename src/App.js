@@ -1,10 +1,15 @@
 import React from 'react';
+import Footer from './components/Footer';
+import Main from './components/Main';
+import Navbar from './components/Navbar';
 
 
 const App = () => {
     return (
-        <div>
-            <h1>Hellow world</h1>
+        <div className="app">
+            <Navbar/>
+            <Main/>
+            <Footer/>
         </div>
     )
 }
