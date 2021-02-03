@@ -20,7 +20,7 @@
     background-color:#183b5e;
     padding: 0 4rem;
     font-size: 1.4rem;
-    margin: 0 auto;
+    margin: 1rem auto;
     &:hover {
         background-color: rgba(#183b5e, .8); 
     }
@@ -68,9 +68,17 @@
         cursor: pointer;
         &--left {
             left: -7rem;
+            @media  (max-width: 768px) {
+                left: -4rem;
+                font-size: 3rem;
+            }
         }
         &--right {
             right: -7rem;
+            @media  (max-width: 768px) {
+                right: -4rem;
+                font-size: 3rem;
+            }
         }
     }
     &__counter {
@@ -78,14 +86,14 @@
         font-size: 2rem;
         position: absolute;
         left: 0;
-        bottom: 1.2rem;
+        bottom: 1.8rem;
     }
     &__timer {
         font-weight: 600;
         font-size: 2rem;
         position: absolute;
         right: 0;
-        bottom: 1.2rem;
+        bottom: 1.8rem;
         width: 80px;
     }
 }
@@ -116,6 +124,9 @@ input[type=text]:not(.browser-default):focus:not([readonly]) {
          height: 200px;
          padding: 10px 40px;
          overflow: hidden;
+         @media  (max-width: 425px) {
+            padding: 0;
+        }
     }
     &__img {
         display: block;

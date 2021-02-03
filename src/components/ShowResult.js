@@ -112,7 +112,6 @@ const ShowResult = () => {
                     <a
                         className="waves-effect waves-light btn-large  btn"
                         onClick={() => {
-                            // clearInterval(timer);
                             setPageNumber(nextPage);
                         }}>
                         СМОТРЕТЬ РЕЗУЛЬТАТЫ

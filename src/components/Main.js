@@ -26,7 +26,6 @@ const Main = () => {
     return (
         <div className="main">
             <div className="container">{pages[pageNumber]}</div>
-            {/* <div className="container">{pages[5]}</div> */}
         </div>
     );
 }

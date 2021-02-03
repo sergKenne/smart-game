@@ -21,7 +21,7 @@ const Pause = () => {
             <div className="pause__wrap">
                 <img className="pause__spinner" src="/public/img/arc1.gif" alt="" />
                 <div className="pause__item">
-                    <p style={{ fontSize: '2.7rem', fontWeight: 'bold' }}>
+                    <p style={{ fontSize: '3.7rem', fontWeight: 'bold' }}>
                         {`${('0' + Math.floor(pause / 60)).slice(-2)}:${('0' + (pause % 60)).slice(
                             -2,
                         )}`}
