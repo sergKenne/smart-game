@@ -1,5 +1,5 @@
 import React, { useState, useContext, useEffect } from 'react';
-import data from './data_1.json';
+import data from './data_2.json';
 import converseArrayToObject from './utils/converseArrayToObject';
 
 const AppContext = React.createContext();

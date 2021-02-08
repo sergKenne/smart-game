@@ -1,0 +1,438 @@
+{
+    "title": "Отборочный тур №3 / внимание. поиск цифр",
+    "description": "Задача в данной соревновательной дисциплине состоит в том, чтобы запомнить и соотнести лица (портретные фотографии) и фамилии/имена людей.",
+    "exercises_blocks": [
+        {
+            "questions": [
+                {
+                    "value": "Валерия Перфилова",
+                    "key": "/public/img/image_1.jpg",
+                    "question_answers": [
+                        {
+                            "is_correct": true,
+                            "value": "Валерия"
+                        },
+                        {
+                            "is_correct": true,
+                            "value": "Перфилова"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "value": "Филипп Киркоров",
+                    "key": "/public/img/image_2.jpg",
+                    "question_answers": [
+                        {
+                            "is_correct": true,
+                            "value": "Филипп"
+                        },
+                        {
+                            "is_correct": true,
+                            "value": "Киркоров"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "value": "Фёдор Бондарчук",
+                    "key": "/public/img/image_3.jpg",
+                    "question_answers": [
+                        {
+                            "is_correct": true,
+                            "value": "Фёдор"
+                        },
+                        {
+                            "is_correct": true,
+                            "value": "Бондарчук"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "value": "Андрей Аршавин",
+                    "key": "/public/img/image_4.jpg",
+                    "question_answers": [
+                        {
+                            "is_correct": true,
+                            "value": "Андрей"
+                        },
+                        {
+                            "is_correct": true,
+                            "value": "Аршавин"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "value": "Виленская Анастасия",
+                    "key": "/public/img/img_5.jpg",
+                    "question_answers": [
+                        {
+                            "is_correct": true,
+                            "value": "Виленская"
+                        },
+                        {
+                            "is_correct": true,
+                            "value": "Анастасия"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "value": "Валерий Николаев",
+                    "key": "/public/img/image_6.jpg",
+                    "question_answers": [
+                        {
+                            "is_correct": true,
+                            "value": "Валерий"
+                        },
+                        {
+                            "is_correct": true,
+                            "value": "Николаев"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "value": "Иван Ургант",
+                    "key": "/public/img/image_7.jpg",
+                    "question_answers": [
+                        {
+                            "is_correct": true,
+                            "value": "Иван"
+                        },
+                        {
+                            "is_correct": true,
+                            "value": "Ургант"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "value": "Арина Шарапова",
+                    "key": "/public/img/image_8.jpg",
+                    "question_answers": [
+                        {
+                            "is_correct": true,
+                            "value": "Арина"
+                        },
+                        {
+                            "is_correct": true,
+                            "value": "Шарапова"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "value": "Дензел Вашингтон",
+                    "key": "/public/img/image_9.jpg",
+                    "question_answers": [
+                        {
+                            "is_correct": true,
+                            "value": "Дензел"
+                        },
+                        {
+                            "is_correct": true,
+                            "value": "Вашингтон"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "value": "Георгий Мартиросян",
+                    "key": "/public/img/image_10.jpg",
+                    "question_answers": [
+                        {
+                            "is_correct": true,
+                            "value": "Георгий"
+                        },
+                        {
+                            "is_correct": true,
+                            "value": "Мартиросян"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "value": "Николай Валуев",
+                    "key": "/public/img/image_11.jpg",
+                    "question_answers": [
+                        {
+                            "is_correct": true,
+                            "value": "Николай"
+                        },
+                        {
+                            "is_correct": true,
+                            "value": "Валуев"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "value": "Дэвид Бекхэм",
+                    "key": "/public/img/image_12.jpg",
+                    "question_answers": [
+                        {
+                            "is_correct": true,
+                            "value": "Дэвид"
+                        },
+                        {
+                            "is_correct": true,
+                            "value": "Бекхэм"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "value": "Валерий Леонтьев",
+                    "key": "/public/img/image_13.jpg",
+                    "question_answers": [
+                        {
+                            "is_correct": true,
+                            "value": "Валерий"
+                        },
+                        {
+                            "is_correct": true,
+                            "value": "Леонтьев"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "value": "Цуканова-Котт Анна",
+                    "key": "/public/img/img_14.jpg",
+                    "question_answers": [
+                        {
+                            "is_correct": true,
+                            "value": "Цуканова-Котт"
+                        },
+                        {
+                            "is_correct": true,
+                            "value": "Анна"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "value": "Павел Воля",
+                    "key": "/public/img/image_15.jpg",
+                    "question_answers": [
+                        {
+                            "is_correct": true,
+                            "value": "Павел"
+                        },
+                        {
+                            "is_correct": true,
+                            "value": "Воля"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "value": "Гарик Харламов",
+                    "key": "/public/img/image_16.jpg",
+                    "question_answers": [
+                        {
+                            "is_correct": true,
+                            "value": "Гарик"
+                        },
+                        {
+                            "is_correct": true,
+                            "value": "Харламов"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "value": "Ирина Аллегрова",
+                    "key": "/public/img/image_17.jpg",
+                    "question_answers": [
+                        {
+                            "is_correct": true,
+                            "value": "Ирина"
+                        },
+                        {
+                            "is_correct": true,
+                            "value": "Аллегрова"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "value": "Ковальская Инночка",
+                    "key": "/public/img/img_18.jpg",
+                    "question_answers": [
+                        {
+                            "is_correct": true,
+                            "value": "Ковальская"
+                        },
+                        {
+                            "is_correct": true,
+                            "value": "Инночка"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "value": "Маргарита Симоньян",
+                    "key": "/public/img/image_19.jpg",
+                    "question_answers": [
+                        {
+                            "is_correct": true,
+                            "value": "Маргарита"
+                        },
+                        {
+                            "is_correct": true,
+                            "value": "Симоньян"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "value": "Ионов Евгений",
+                    "key": "/public/img/img_20.jpg",
+                    "question_answers": [
+                        {
+                            "is_correct": true,
+                            "value": "Ионов"
+                        },
+                        {
+                            "is_correct": true,
+                            "value": "Евгений"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "value": "Иванова Кристина",
+                    "key": "/public/img/img_21.jpg",
+                    "question_answers": [
+                        {
+                            "is_correct": true,
+                            "value": "Иванова"
+                        },
+                        {
+                            "is_correct": true,
+                            "value": "Кристина"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "value": "Губжев Адам",
+                    "key": "/public/img/img_22.jpg",
+                    "question_answers": [
+                        {
+                            "is_correct": true,
+                            "value": "Губжев"
+                        },
+                        {
+                            "is_correct": true,
+                            "value": "Адам"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "value": "Вилков Алексей",
+                    "key": "/public/img/img_23.jpg",
+                    "question_answers": [
+                        {
+                            "is_correct": true,
+                            "value": "Вилков"
+                        },
+                        {
+                            "is_correct": true,
+                            "value": "Алексей"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "questions": [
+                {
+                    "value": "Тарасова Аглая",
+                    "key": "/public/img/img_24.jpg",
+                    "question_answers": [
+                        {
+                            "is_correct": true,
+                            "value": "Тарасова"
+                        },
+                        {
+                            "is_correct": true,
+                            "value": "Аглая"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
