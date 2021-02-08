@@ -25,7 +25,10 @@ const Results = () => {
     const {
         setPageNumber,
         amount,
-        results
+        results,
+        setResponseObject,
+        createObjSavingInputValue,
+        setMemorizationTime,
     } = useGlobalContext();
 
     const objectFromArray = converseArrayToObject(results, amount);
@@ -80,6 +83,8 @@ const Results = () => {
                     onClick={() => {
                         clearInterval(timer);
                         setPageNumber(0);
+                        setResponseObject(createObjSavingInputValue(6, 4, 24));
+                        setMemorizationTime({ minute: 3, second: 0 });
                     }}>
                     ВЕРНУТЬСЯ В СTAPT
                 </a>

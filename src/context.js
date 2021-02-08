@@ -52,6 +52,7 @@ const AppProvider = ({ children }) => {
                 setMemorizationTime,
                 memorizationTimeResult, 
                 setMemorizationTimeResult,
+                createObjSavingInputValue,
                 amount: 6,
                 itemsRandom,
                 setItemRandom,

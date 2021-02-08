@@ -3,6 +3,7 @@ import objToArr from '../utils/objToArr';
 import arrOfObject from '../utils/arrOfObject';
 import { useGlobalContext } from '../context';
 
+
 export function getResult(objQuestion, arrResponse) {
     let counter = 0;
     let arrFromObj = [];
@@ -46,9 +47,12 @@ export function getResult(objQuestion, arrResponse) {
 const ShowResult = () => {
 
     const {
+        setMemorizationTime,
         memorizationTime,
         memorizationTimeResult,
         responseObject,
+        setResponseObject,
+        createObjSavingInputValue,
         itemsRandom,
         setPageNumber,
         amount,
@@ -105,6 +109,10 @@ const ShowResult = () => {
                         style={{ marginRight: '20px' }}
                         onClick={() => {
                             setPageNumber(0);
+
+                            //test
+                            setResponseObject(createObjSavingInputValue(6, 4, 24));
+                            setMemorizationTime({ minute: 3, second: 0 });
                         }}>
                         ЗАВЕРШИТЬ
                     </a>
