@@ -109,6 +109,7 @@
 
 input[type=text]:not(.browser-default) {
     border: none;
+    font-size: 1.3rem;
 }
 
 input[type=text]:not(.browser-default):focus:not([readonly]) {
@@ -164,6 +165,7 @@ input[type=text]:not(.browser-default):focus:not([readonly]) {
         border-color: #8bbafe!important;
         outline: 0;
         box-shadow: 0 0 0 0.2rem rgb(13 110 253 / 25%)!important;
+        text-align: center;
     }
 }
 
